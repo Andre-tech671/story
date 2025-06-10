@@ -3,4 +3,9 @@ It was the best of times
 Using The Git
 1. git init
 2. to check the status git status
-3. to add file to the git git add chapter1.txt
+3. to add file to the git git add chapter1.txt( it will be in the staging area)
+4. git commit -m "complete chapter 1"
+5. git log (to check the committed file)
+
+6. create 2 files and add them to the staging areas
+7 short hand for adding files (git add .)

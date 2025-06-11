@@ -9,3 +9,14 @@ Using The Git
 
 6. create 2 files and add them to the staging areas
 7 short hand for adding files (git add .)
+8. git remote add origin
+
+The git Process Revised
+1. Createing the file in the directory
+2. The file is made to be in a staging area(Git adding)
+3.Then commiting the file to git repository
+4.Git checkout to check the file
+5. checking the differsnces git diff chatpter3.txt
+6. git checkout 
+7. Git remote add Origin https://github.com/Andre-tech671/story.git
+8. git push -u origin main

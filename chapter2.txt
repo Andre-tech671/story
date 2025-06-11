@@ -3,7 +3,11 @@ The git Process
 
 Branching and merging
 git branch alien-plot
+<<<<<<< HEAD
 git branch
 then git process add the files and then commit
 git checkout main
 touch chapter4
+=======
+git branch
+>>>>>>> alien-plot

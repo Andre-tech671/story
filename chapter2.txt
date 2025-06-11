@@ -1,1 +1,6 @@
 This is a file representing my chapter 2.txt
+The git Process
+
+Branching and merging
+git branch alien-plot
+git branch
